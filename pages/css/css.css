@@ -1,0 +1,43 @@
+.navbar {
+    text-align: center;
+    height: 80px;
+    word-spacing: 20px;
+    background-color: #0176c3;
+    font-size: 25px;
+}
+
+.navbar a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    line-height: 80px;
+    font-family: serif;
+}
+h1
+{
+    font-size: 40px;
+}
+.btn {
+    height: 50px;
+    background-color: #0176c3;
+    color: white;
+    font-size: 18px;
+    border-color: #0176c3;
+}
+.learning-page
+{
+    background-color: #c7eeff;
+    
+}
+.learning-page-btn 
+{
+    height: 50px;
+        background-color: #0176c3;
+        color: white;
+        font-size: 18px;
+        border-color: #0176c3;
+}
+.about .title
+{
+    font-size: 30px;
+}

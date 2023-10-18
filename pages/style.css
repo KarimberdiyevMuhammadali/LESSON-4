@@ -1,0 +1,47 @@
+.navbar
+{
+    text-align: center;
+    height: 80px;
+    word-spacing: 20px;
+    background-color: #282A34;
+    font-size: 25px;
+}
+.navbar a 
+{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    line-height: 80px;
+    font-family: serif;
+}
+h1
+{
+    font-size: 40px;
+}
+button
+{
+    height: 50px;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 18px;
+    border-color: #06b675;
+}
+.about
+{
+    background-color: #d1ecda;
+}
+.about button a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.about .btn
+{
+    background-color: black;
+}
+.html-examples button a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}

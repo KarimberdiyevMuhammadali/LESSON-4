@@ -1,0 +1,35 @@
+.navbar {
+    text-align: center;
+    height: 80px;
+    word-spacing: 20px;
+    background-color: #ed9b1f;
+    font-size: 25px;
+}
+
+.navbar a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    line-height: 80px;
+    font-family: serif;
+}
+h1
+{
+    font-size: 40px;
+}
+button {
+    height: 50px;
+    background-color: #ea9e41;
+    color: white;
+    font-size: 18px;
+    border-color: #ea9e41;
+}
+.learning 
+{
+    background-color: rgba(237, 161, 110 , 0.4);
+}
+.examples
+{
+    line-height: 70px;
+    background-color: rgba(237, 161, 110, 0.4);
+}
